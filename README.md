@@ -32,3 +32,11 @@
 
     - Built SQL analysis across normalized customer, product and order tables using joins, aggregations, CTE logic and window functions.
 - Analyzed monthly revenue, repeat customer rate, category performance, top customers and country-level revenue efficiency.
+
+  ## Business recommendation
+
+The treatment group improved final purchase conversion by X pp.
+If p-value < 0.05, the variant can be considered statistically significant.
+If p-value >= 0.05, keep the test running or increase sample size.
+
+![Funnel conversion by group](results/funnel_conversion_by_group.png)
