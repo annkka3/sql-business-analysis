@@ -1,0 +1,2 @@
+Created SQLite database: /mnt/data/Anna_Gromyko_Resume_Projects/02_sql_business_analysis/results/business_analysis.sqlite
+Saved query results to results/query_*.csv
