@@ -6,11 +6,11 @@
 
    ## Business problem
 
-    A retail/e-commerce business needs to understand revenue trends, category performance, repeat customers, top customers and country-level performance from normalized relational data.
+A retail/e-commerce business needs to understand revenue trends, category performance, repeat customers, top customers and country-level performance from normalized relational data.
 
    ## What was built
 
-    Built a reproducible SQL analysis project using customers, products and orders tables. The project includes database creation, analytical SQL queries, CSV exports and a revenue trend chart.
+Built a reproducible SQL analysis project using customers, products and orders tables. The project includes database creation, analytical SQL queries, CSV exports and a revenue trend chart.
 
    ## SQL concepts demonstrated
 
