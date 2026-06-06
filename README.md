@@ -1,18 +1,18 @@
 # SQL Business Analysis: Revenue, Customers & Product Performance
 
-    **Role:** Data Analyst / SQL Analyst  
-    **Dataset:** Synthetic / anonymized demo data created for portfolio use.  
-    **Stack:** SQLite, SQL, CTEs, joins, window functions, pandas, matplotlib
+   **Role:** Data Analyst / SQL Analyst  
+   **Dataset:** Synthetic / anonymized demo data created for portfolio use.  
+   **Stack:** SQLite, SQL, CTEs, joins, window functions, pandas, matplotlib
 
-    ## Business problem
+   ## Business problem
 
     A retail/e-commerce business needs to understand revenue trends, category performance, repeat customers, top customers and country-level performance from normalized relational data.
 
-    ## What was built
+   ## What was built
 
     Built a reproducible SQL analysis project using customers, products and orders tables. The project includes database creation, analytical SQL queries, CSV exports and a revenue trend chart.
 
-    ## SQL concepts demonstrated
+   ## SQL concepts demonstrated
 
 - JOINs across normalized tables
 - GROUP BY aggregations
